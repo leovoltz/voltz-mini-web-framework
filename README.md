@@ -38,7 +38,7 @@ if __name__ == '__main__':
 ```
 
 ## Documentação
-A documentação completa do Voltz Mini Web Framework está disponível aqui.
+A documentação completa do Voltz Mini Web Framework está disponível [aqui.](https://github.com/leovoltz/voltz-mini-web-framework/wiki)
 
 ## Contribuindo
 Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
