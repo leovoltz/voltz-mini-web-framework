@@ -15,11 +15,11 @@ Você pode instalar o Voltz Mini Web Framework usando o pip. Basta executar o se
 
 ```bash
 pip install voltz-mini-web-framework
-Exemplo de Uso
+```
+# Exemplo de Uso
 Aqui está um exemplo básico de como criar uma aplicação web simples usando o Voltz Mini Web Framework:
 
-python
-Copy code
+```python
 from voltz import Voltz, JsonResponse
 
 app = Voltz()
